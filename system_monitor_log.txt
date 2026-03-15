@@ -1,0 +1,5 @@
+Sun Mar 15 20:59:26 +0530 2026 : Checked CPU and memory
+Sun Mar 15 21:01:31 +0530 2026 : Viewed memory processes
+Sun Mar 15 21:04:30 +0530 2026 : Checked disk usage ~
+Sun Mar 15 21:05:24 +0530 2026 : Checked disk usage /home/dulara
+Sun Mar 15 21:06:34 +0530 2026 : Exited system
